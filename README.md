@@ -1,6 +1,6 @@
 
 <h1>
-    <img src="docs/figures/logo.png" alt="Image description" style="width: 1.5em; height: 1.5em;vertical-align: bottom; margin-right: 5px;">
+    <img src="docs/figures/logo.png" alt="Image description" style="width: 1.3em; height: 1.3em;vertical-align: bottom; margin-right: 5px;">
     <span>STAR: Boosting Time Series Foundation Models for Anomaly Detection through STate-aware AdapteR</span>
 </h1>
 
