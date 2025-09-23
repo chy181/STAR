@@ -1,0 +1,15 @@
+dataset/
+result/
+.idea/
+.vscode/
+.git
+*.DS_Store
+venv/
+__MACOSX/
+checkpoints/
+test_UniTS/
+*.bin
+*.pt
+*.ckpt
+*.pth
+__pycache__/
